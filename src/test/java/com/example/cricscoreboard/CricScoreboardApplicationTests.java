@@ -1,10 +1,10 @@
-package com.example.springbootgradledefaulttemplate;
+package com.example.cricscoreboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootGradleDefaultTemplateApplicationTests {
+class CricScoreboardApplicationTests {
 
 	@Test
 	void contextLoads() {

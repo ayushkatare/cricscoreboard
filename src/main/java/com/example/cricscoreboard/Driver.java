@@ -1,8 +1,8 @@
-package com.example.springbootgradledefaulttemplate;
+package com.example.cricscoreboard;
 
-import com.example.springbootgradledefaulttemplate.model.Team;
-import com.example.springbootgradledefaulttemplate.service.MatchService;
-import com.example.springbootgradledefaulttemplate.service.TeamService;
+import com.example.cricscoreboard.model.Team;
+import com.example.cricscoreboard.service.MatchService;
+import com.example.cricscoreboard.service.TeamService;
 
 import java.util.Scanner;
 

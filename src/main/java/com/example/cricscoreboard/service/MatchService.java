@@ -1,9 +1,9 @@
-package com.example.springbootgradledefaulttemplate.service;
+package com.example.cricscoreboard.service;
 
-import com.example.springbootgradledefaulttemplate.model.Ball;
-import com.example.springbootgradledefaulttemplate.model.Over;
-import com.example.springbootgradledefaulttemplate.model.Player;
-import com.example.springbootgradledefaulttemplate.model.Team;
+import com.example.cricscoreboard.model.Ball;
+import com.example.cricscoreboard.model.Over;
+import com.example.cricscoreboard.model.Player;
+import com.example.cricscoreboard.model.Team;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.example.springbootgradledefaulttemplate.model;
+package com.example.cricscoreboard.model;
 
 import java.util.ArrayList;
 import java.util.HashMap;

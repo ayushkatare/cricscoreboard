@@ -1,7 +1,7 @@
-package com.example.springbootgradledefaulttemplate.service;
+package com.example.cricscoreboard.service;
 
-import com.example.springbootgradledefaulttemplate.model.Player;
-import com.example.springbootgradledefaulttemplate.model.Team;
+import com.example.cricscoreboard.model.Player;
+import com.example.cricscoreboard.model.Team;
 
 public class TeamService {
 
